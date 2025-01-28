@@ -7,6 +7,14 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I hung myself with JavaScript. So I am in the middle of dying.
 
+## Skills
+
+- **Languages**: Javasript
+- **Frameworks**: Reactjs, Nextjs, Redux
+- **Tools**: VScode, Webstrom
+- **Databases**: MongoDB, PostgreSQL
+- **Others**: Figma, Wordpress, Webflow
+
 ### Work Experience
 
 In the overview below you will find my most recent work experience:
@@ -47,3 +55,9 @@ Featured Projects: [Bengal Software](https://www.bengalsoftware.com/)
 <br/>
 
 Please find me on [LinkedIn](https://www.linkedin.com/in/muhammadashiqurrahman/) for a more detailed description of my work experience, education and certification.
+
+Feel free to explore my repositories and get in touch if you'd like to collaborate!
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamashiqur&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamashiqur&layout=compact&theme=radical)
